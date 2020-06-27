@@ -1,0 +1,17 @@
+{
+  "name": "photos-date-fixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Barthel",
+  "license": "ISC",
+  "dependencies": {
+    "jxa": "^2.0.3",
+    "osa2": "^0.2.3",
+    "sqlite3": "^4.2.0"
+  }
+}
